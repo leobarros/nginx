@@ -1,5 +1,5 @@
 $pacotes = ['vim', 'curl', 'lynx', 'ipython', 'git',
-'tree', 'strace', 'wget', 'epel-release']
+'tree', 'strace', 'wget']
 
   package{ $pacotes:
     ensure => installed,
