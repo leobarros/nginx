@@ -13,6 +13,10 @@
     https://www.dotdeb.org/instructions/
     https://www.dotdeb.org/mirrors/
 
+  * Baixar o wordpress (https://wordpress.org/download/)
+    Criar a pasta /sites/wordpress, pois está root /sites/wordpress
+    no arquivo de configuração de nginx.conf.
+
 # Instalacao do php5.6
   Depois de informar o repositorio do php devemos intalar os pacotes:
 
